@@ -1,3 +1,12 @@
+--------------------------------------------------------------------------------
+This is my personal clone of the st terminal emulator from suckless.
+
+My changes are on the custom branch.
+
+The original source code can be found in the master branch or at
+http://st.suckless.org/
+--------------------------------------------------------------------------------
+
 st - simple terminal
 --------------------
 st is a simple terminal emulator for X which sucks less.
